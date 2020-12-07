@@ -1,0 +1,24 @@
+{
+  "name": "react-professionalbackend",
+  "version": "1.0.0",
+  "description": "This is simple demo for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulseth01/react-professionalbackend.git"
+  },
+  "keywords": [
+    "customers",
+    "ract",
+    "backend"
+  ],
+  "author": "Rahul Seth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulseth01/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/rahulseth01/react-professionalbackend#readme"
+}
